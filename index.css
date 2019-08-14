@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lato';
+}
+h4 {
+  color:#1779ba;
+}
+h6 {
+  color:#ffae00;
+}
+.button {
+  border-radius: 8px
+}
+
+p{
+  font-size: 1em;
+}
+
+hr {
+  align: left;
+  size: 20px;
+  color:#1779ba;
+}
+
+#midSection {
+  background-image: url("images/row-img-bg-waves.jpg");
+}
+
+p.container-1  {
+  margin-left:
+}
